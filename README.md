@@ -23,6 +23,12 @@
 
 ---
 
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/u/kashishbishnoi23?theme=dark&ext=contest)
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashishbishnoi23)
