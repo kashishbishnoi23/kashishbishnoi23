@@ -25,7 +25,7 @@
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/u/kashishbishnoi23?theme=dark&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kashishbishnoi23?theme=dark&font=Abhaya%20Libre&ext=activity)
 
 ---
 
