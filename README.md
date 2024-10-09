@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishbishnoi23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishbishnoi23&layout=compact&theme=radical)
-
----
-
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kashishbishnoi23?theme=dark&font=Abhaya%20Libre&ext=activity)
